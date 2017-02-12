@@ -1,4 +1,4 @@
-baseurl = "http://replace-this-with-your-domain.com/"
+baseurl = "http://engshelf.com/engshelf/"
 languageCode = "en-us"
 title = "Type theme"
 theme = "hugo-type-theme"
