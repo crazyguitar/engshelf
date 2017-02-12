@@ -1,4 +1,4 @@
-baseurl = "http://engshelf.com/engshelf/"
+baseurl = "http://crazyguitar.github.io/engshelf/"
 languageCode = "en-us"
 title = "Type theme"
 theme = "hugo-type-theme"
