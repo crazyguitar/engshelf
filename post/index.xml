@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Type theme</title>
-    <link>http://engshelf.com/engshelf/post/index.xml</link>
+    <link>http://crazyguitar.github.io/engshelf/post/index.xml</link>
     <description>Recent content in Posts on Type theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license&lt;br&gt;Powered by [Hugo](//gohugo.io/) with the [Type Theme](//github.com/digitalcraftsman/hugo-type-theme)</copyright>
     <lastBuildDate>Sun, 12 Feb 2017 09:07:20 +0800</lastBuildDate>
-    <atom:link href="http://engshelf.com/engshelf/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://crazyguitar.github.io/engshelf/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>note 1</title>
-      <link>http://engshelf.com/engshelf/post/creating-a-new-theme/</link>
+      <link>http://crazyguitar.github.io/engshelf/post/creating-a-new-theme/</link>
       <pubDate>Sun, 12 Feb 2017 09:07:20 +0800</pubDate>
       
-      <guid>http://engshelf.com/engshelf/post/creating-a-new-theme/</guid>
+      <guid>http://crazyguitar.github.io/engshelf/post/creating-a-new-theme/</guid>
       <description></description>
     </item>
     
