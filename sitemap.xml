@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://crazyguitar.github.io/engshelf/post/post_listening_tips/</loc>
+    <lastmod>2017-02-26T10:57:25+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://crazyguitar.github.io/engshelf/post/post_reading-tips/</loc>
     <lastmod>2017-02-26T09:13:25+08:00</lastmod>
   </url>
@@ -12,14 +17,14 @@
   </url>
   
   <url>
-    <loc>http://crazyguitar.github.io/engshelf/post/</loc>
-    <lastmod>2017-02-26T09:13:25+08:00</lastmod>
+    <loc>http://crazyguitar.github.io/engshelf/</loc>
+    <lastmod>2017-02-26T10:57:25+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://crazyguitar.github.io/engshelf/</loc>
-    <lastmod>2017-02-26T09:13:25+08:00</lastmod>
+    <loc>http://crazyguitar.github.io/engshelf/post/</loc>
+    <lastmod>2017-02-26T10:57:25+08:00</lastmod>
     <priority>0</priority>
   </url>
   
