@@ -56,7 +56,7 @@
 &lt;li&gt;可以嘗試寫下&lt;strong&gt;重要&lt;/strong&gt;，或&lt;strong&gt;不重要&lt;/strong&gt;，來幫助自己判斷是否為雜訊句&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h5 id=&#34;ask-yourself&#34;&gt;Ask yourself&lt;/h5&gt;
+&lt;h5 id=&#34;ask-myself&#34;&gt;Ask myself&lt;/h5&gt;
 
 &lt;ul class=&#34;task-list&#34;&gt;
 &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; Is this sentence important?&lt;/li&gt;
@@ -65,7 +65,22 @@
 
 &lt;h5 id=&#34;main-idea-sentences&#34;&gt;Main idea sentences&lt;/h5&gt;
 
+&lt;ul&gt;
+&lt;li&gt;Cause I want to &amp;hellip;&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;m not sure &amp;hellip;&lt;/li&gt;
+&lt;li&gt;The Problem is &amp;hellip;&lt;/li&gt;
+&lt;li&gt;I was hoping you can help me with &amp;hellip;&lt;/li&gt;
+&lt;li&gt;&amp;hellip;, which is why I came by.&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h5 id=&#34;attitude-sentences&#34;&gt;Attitude sentences&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I&amp;rsquo;m really excited &amp;hellip;&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;m glad that &amp;hellip;&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;m worried &amp;hellip;&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;m unsure of &amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h4 id=&#34;level-3-main-point&#34;&gt;Level 3: Main Point&lt;/h4&gt;
 
@@ -83,14 +98,33 @@
 &lt;ol&gt;
 &lt;li&gt;練習找出指指目的的句型&lt;/li&gt;
 &lt;li&gt;理解常見的 Lecture 結構&lt;/li&gt;
+&lt;li&gt;注意 transition word&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h5 id=&#34;ask-yourself-after-finish-listening&#34;&gt;Ask yourself after finish listening&lt;/h5&gt;
+&lt;h5 id=&#34;structure-of-lectures&#34;&gt;Structure of Lectures&lt;/h5&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Comparison &amp;amp; Contrast&lt;/li&gt;
+&lt;li&gt;Cause and Effect&lt;/li&gt;
+&lt;li&gt;Abstract concept - specific example&lt;/li&gt;
+&lt;li&gt;Time sequence&lt;/li&gt;
+&lt;li&gt;Problems and Limitation&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h5 id=&#34;attitude-of-lectures&#34;&gt;Attitude of Lectures&lt;/h5&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Compare and Contrast (注意 like, alike, difference 之類的字)&lt;/li&gt;
+&lt;li&gt;Argumentation (注意 mysterious, discoveries, agree, disagree, hesitant)&lt;/li&gt;
+&lt;li&gt;Informative procedure (Interested, neutral)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h5 id=&#34;ask-myself-after-finish-listening&#34;&gt;Ask myself after finish listening&lt;/h5&gt;
 
 &lt;ul class=&#34;task-list&#34;&gt;
 &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; What is the main idea?&lt;/li&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; What is the author&amp;rsquo;s attitude?&lt;/li&gt;
-&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; What is the structure of article?&lt;/li&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; What is the structure of article? (Structure of Lecture)&lt;/li&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; What is the author&amp;rsquo;s attitude? (Attitude of Lecture)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&#34;level-4-separate-section&#34;&gt;Level 4: Separate Section&lt;/h4&gt;
@@ -111,7 +145,7 @@
 &lt;li&gt;反覆聽重要的部分 (Topic sentence. 通常為第一句)&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h5 id=&#34;ask-yourself-1&#34;&gt;Ask yourself&lt;/h5&gt;
+&lt;h5 id=&#34;ask-myself-1&#34;&gt;Ask myself&lt;/h5&gt;
 
 &lt;ul class=&#34;task-list&#34;&gt;
 &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; How many sections?&lt;/li&gt;
