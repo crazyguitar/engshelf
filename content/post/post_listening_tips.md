@@ -41,16 +41,26 @@ date = "2017-02-26T10:57:25+08:00"
 2. 判斷句子的對象是指誰
 3. 可以嘗試寫下**重要**，或**不重要**，來幫助自己判斷是否為雜訊句
 
-##### Ask yourself
+##### Ask myself
 
 - [ ] Is this sentence important?
 - [ ] Who, What?
 
 ##### Main idea sentences
 
+* Cause I want to ...
+* I'm not sure ...
+* The Problem is ...
+* I was hoping you can help me with ...
+* ..., which is why I came by.
+
 
 ##### Attitude sentences
 
+* I'm really excited ...
+* I'm glad that ...
+* I'm worried ...
+* I'm unsure of ...
 
 #### Level 3: Main Point
 
@@ -65,12 +75,30 @@ date = "2017-02-26T10:57:25+08:00"
 
 1. 練習找出指指目的的句型
 2. 理解常見的 Lecture 結構
+3. 注意 transition word
 
-##### Ask yourself after finish listening
+
+##### Structure of Lectures
+
+1. Comparison & Contrast
+2. Cause and Effect
+3. Abstract concept - specific example
+4. Time sequence
+5. Problems and Limitation
+
+
+##### Attitude of Lectures
+
+1. Compare and Contrast (注意 like, alike, difference 之類的字)
+2. Argumentation (注意 mysterious, discoveries, agree, disagree, hesitant)
+3. Informative procedure (Interested, neutral) 
+
+
+##### Ask myself after finish listening
 
 - [ ] What is the main idea?
-- [ ] What is the author's attitude?
-- [ ] What is the structure of article?
+- [ ] What is the structure of article? (Structure of Lecture)
+- [ ] What is the author's attitude? (Attitude of Lecture)
 
 #### Level 4: Separate Section
 
@@ -86,7 +114,7 @@ date = "2017-02-26T10:57:25+08:00"
 2. 練習聽出段落交界 (注意 transition words)
 3. 反覆聽重要的部分 (Topic sentence. 通常為第一句) 
 
-##### Ask yourself
+##### Ask myself
 
 - [ ] How many sections?
 - [ ] What is the main idea of section? 
