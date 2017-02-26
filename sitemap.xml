@@ -2,34 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://crazyguitar.github.io/engshelf/post/post_speaking/</loc>
+    <loc>http://engshelf.com/post/post_writing_tips/</loc>
+    <lastmod>2017-02-26T21:32:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://engshelf.com/post/post_speaking/</loc>
     <lastmod>2017-02-26T20:46:24+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://crazyguitar.github.io/engshelf/post/post_listening_tips/</loc>
+    <loc>http://engshelf.com/post/post_listening_tips/</loc>
     <lastmod>2017-02-26T10:57:25+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://crazyguitar.github.io/engshelf/post/post_reading-tips/</loc>
+    <loc>http://engshelf.com/post/post_reading-tips/</loc>
     <lastmod>2017-02-26T09:13:25+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://crazyguitar.github.io/engshelf/post/post_toefl_common_theme/</loc>
+    <loc>http://engshelf.com/post/post_toefl_common_theme/</loc>
     <lastmod>2017-02-12T09:07:20+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://crazyguitar.github.io/engshelf/</loc>
-    <lastmod>2017-02-26T20:46:24+08:00</lastmod>
+    <loc>http://engshelf.com/</loc>
+    <lastmod>2017-02-26T21:32:14+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://crazyguitar.github.io/engshelf/post/</loc>
-    <lastmod>2017-02-26T20:46:24+08:00</lastmod>
+    <loc>http://engshelf.com/post/</loc>
+    <lastmod>2017-02-26T21:32:14+08:00</lastmod>
     <priority>0</priority>
   </url>
   

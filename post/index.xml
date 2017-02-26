@@ -2,20 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on English Learning Tips</title>
-    <link>http://crazyguitar.github.io/engshelf/post/index.xml</link>
+    <link>http://engshelf.com/post/index.xml</link>
     <description>Recent content in Posts on English Learning Tips</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license&lt;br&gt;Powered by crazyguitar</copyright>
-    <lastBuildDate>Sun, 26 Feb 2017 20:46:24 +0800</lastBuildDate>
-    <atom:link href="http://crazyguitar.github.io/engshelf/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Feb 2017 21:32:14 +0800</lastBuildDate>
+    <atom:link href="http://engshelf.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Writing Tips</title>
+      <link>http://engshelf.com/post/post_writing_tips/</link>
+      <pubDate>Sun, 26 Feb 2017 21:32:14 +0800</pubDate>
+      
+      <guid>http://engshelf.com/post/post_writing_tips/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;principle-1-3-ideas&#34;&gt;Principle 1: 3 ideas&lt;/h2&gt;
+
+&lt;p&gt;想出三個點，並從這三個點開始延伸&lt;/p&gt;
+
+&lt;p&gt;注意:&lt;/p&gt;
+
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; 每一段都需要扣緊主題&lt;/li&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; 段落功能和個人色彩明確&lt;/li&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; 各段需有關聯性&lt;/li&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; 平衡，3個點子相關性不要太強&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;example&#34;&gt;Example&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;身、心、社會&lt;/li&gt;
+&lt;li&gt;一人、兩人、一群人&lt;/li&gt;
+&lt;li&gt;人、事、物&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://engshelf.com/img/writing_principle_1.png&#34; alt=&#34;ideas example&#34; /&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Speaking Tips</title>
-      <link>http://crazyguitar.github.io/engshelf/post/post_speaking/</link>
+      <link>http://engshelf.com/post/post_speaking/</link>
       <pubDate>Sun, 26 Feb 2017 20:46:24 +0800</pubDate>
       
-      <guid>http://crazyguitar.github.io/engshelf/post/post_speaking/</guid>
+      <guid>http://engshelf.com/post/post_speaking/</guid>
       <description>&lt;p&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;becarful&#34;&gt;Becarful&lt;/h2&gt;
@@ -72,10 +104,10 @@
     
     <item>
       <title>Listening Tips</title>
-      <link>http://crazyguitar.github.io/engshelf/post/post_listening_tips/</link>
+      <link>http://engshelf.com/post/post_listening_tips/</link>
       <pubDate>Sun, 26 Feb 2017 10:57:25 +0800</pubDate>
       
-      <guid>http://crazyguitar.github.io/engshelf/post/post_listening_tips/</guid>
+      <guid>http://engshelf.com/post/post_listening_tips/</guid>
       <description>&lt;p&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;levels-of-listening&#34;&gt;Levels of Listening&lt;/h2&gt;
@@ -217,10 +249,10 @@
     
     <item>
       <title>Reading Tips</title>
-      <link>http://crazyguitar.github.io/engshelf/post/post_reading-tips/</link>
+      <link>http://engshelf.com/post/post_reading-tips/</link>
       <pubDate>Sun, 26 Feb 2017 09:13:25 +0800</pubDate>
       
-      <guid>http://crazyguitar.github.io/engshelf/post/post_reading-tips/</guid>
+      <guid>http://engshelf.com/post/post_reading-tips/</guid>
       <description>&lt;p&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;english-logic&#34;&gt;English Logic&lt;/h2&gt;
@@ -266,10 +298,10 @@
     
     <item>
       <title>TOEFL Common Themes</title>
-      <link>http://crazyguitar.github.io/engshelf/post/post_toefl_common_theme/</link>
+      <link>http://engshelf.com/post/post_toefl_common_theme/</link>
       <pubDate>Sun, 12 Feb 2017 09:07:20 +0800</pubDate>
       
-      <guid>http://crazyguitar.github.io/engshelf/post/post_toefl_common_theme/</guid>
+      <guid>http://engshelf.com/post/post_toefl_common_theme/</guid>
       <description>&lt;p&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;humanities-social-science&#34;&gt;Humanities &amp;amp; Social Science&lt;/h2&gt;
