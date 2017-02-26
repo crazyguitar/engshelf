@@ -11,6 +11,12 @@ categories = []
 
 <!--more-->
 
+- [Function of scentences](#function-of-scentences)
+- [Writing rules](#writing-rules)
+- [3 ideas principle](#3-ideas-principle)
+- [Introduction](#introduction)
+- [Conclusion](#conclusion)
+
 ## Function of scentences
 
 句子的功能
@@ -47,7 +53,7 @@ categories = []
 每一句話前面加上連接詞 (glue word)，要有清楚的文具關聯
 
 
-## Principle 1: 3 ideas
+## 3 ideas principle
 
 想出三個點，並從這三個點開始延伸
 
