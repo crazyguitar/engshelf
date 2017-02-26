@@ -28,5 +28,5 @@ categories = []
 - 一人、兩人、一群人
 - 人、事、物
 
-![ideas example](/img/writing_principle_1.png)
+![ideas example](/img/writing_ideas_1.png)
 
