@@ -11,7 +11,7 @@ draft = false
 
 <!--more-->
 
-## Becareful
+## Becarful
 
 - [ ] **DELIVERY** is the most important thing.
 - [ ] 注意**停頓**不要停在關係子句 (who, what, that, ...etc)
