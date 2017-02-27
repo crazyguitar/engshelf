@@ -11,6 +11,10 @@ date = "2017-02-26T10:57:25+08:00"
 
 <!--more-->
 
+- [Levels of Listening](#levels-of-listening)
+- [Structure of Lecture](#structure-of-lectures)
+- [Attitude of Lecture](#attitude-of-lectures)
+
 ## Levels of Listening
 
 #### Level 1: Echo Method
@@ -53,7 +57,19 @@ date = "2017-02-26T10:57:25+08:00"
 * The Problem is ...
 * I was hoping you can help me with ...
 * ..., which is why I came by.
+* The purpose ... (TPO-13-L3)
+* Summary main feature (TPO-13-L3)
+* ... define ...
 
+關鍵字:
+
+- Main idea
+- Define
+- Summary
+- Purpose
+- The Problem 
+- Compare to
+- Difference, alike, like
 
 ##### Attitude sentences
 
@@ -76,23 +92,6 @@ date = "2017-02-26T10:57:25+08:00"
 1. 練習找出指指目的的句型
 2. 理解常見的 Lecture 結構
 3. 注意 transition word
-
-
-##### Structure of Lectures
-
-1. Comparison & Contrast
-2. Cause and Effect
-3. Abstract concept - specific example
-4. Time sequence
-5. Problems and Limitation
-
-
-##### Attitude of Lectures
-
-1. Compare and Contrast (注意 like, alike, difference 之類的字)
-2. Argumentation (注意 mysterious, discoveries, agree, disagree, hesitant)
-3. Informative procedure (Interested, neutral) 
-
 
 ##### Ask myself after finish listening
 
@@ -120,3 +119,19 @@ date = "2017-02-26T10:57:25+08:00"
 - [ ] What is the main idea of section? 
 - [ ] What is the attitude of section?
 - [ ] What is the relation between section? (延伸 or 比較)
+
+
+## Structure of Lectures
+
+- Comparison & Contrast: 注意可能聽到 compare to, difference, alike, like
+- Cause and Effect
+- Abstract concept - specific example
+- Time sequence
+- Problems and Limitation
+
+
+## Attitude of Lectures
+
+1. Compare and Contrast (注意 like, alike, difference 之類的字)
+2. Argumentation (注意 mysterious, discoveries, agree, disagree, hesitant)
+3. Informative procedure (Interested, neutral) 
