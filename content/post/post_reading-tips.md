@@ -26,6 +26,8 @@ What => Why or How => Examples
 
 ##### Scan (瀏覽)
 
+練習方式: 拿 TPO 細節提來練習
+
 ##### Skim (略讀)
 
 ## Tips 2: Attitude
