@@ -7,8 +7,237 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license&lt;br&gt;Powered by crazyguitar</copyright>
-    <lastBuildDate>Tue, 28 Feb 2017 13:38:39 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 28 Feb 2017 21:51:03 +0800</lastBuildDate>
     <atom:link href="http://engshelf.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Simple Grammar Rules</title>
+      <link>http://engshelf.com/post/post_grammar/</link>
+      <pubDate>Tue, 28 Feb 2017 21:51:03 +0800</pubDate>
+      
+      <guid>http://engshelf.com/post/post_grammar/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#s-vi&#34;&gt;S + Vi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#s-vi-prep-o&#34;&gt;S + Vi + prep + O&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#s-vi-s-c&#34;&gt;S + Vi + S.C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#s-vt-o&#34;&gt;S + Vt + O&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#s-vt-i-o-d-o&#34;&gt;S + Vt + I.O + D.O&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#s-vt-o-o-c&#34;&gt;S + Vt + O + O.C&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;english-sentences-structure&#34;&gt;English Sentences Structure&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://engshelf.com/img/sentences_category.png&#34; alt=&#34;Sentences Structure&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;英文基本句型主要的組成成員為&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;主詞 (Subject)&lt;/li&gt;
+&lt;li&gt;動詞 (Verbs)&lt;/li&gt;
+&lt;li&gt;受詞 (Object)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;通常大宗為 S + V + (prep) + O ，所以當句子看不懂的時候把握抓出 S, V, O 的原則，
+剩下的部分就只是用來&lt;strong&gt;形容&lt;/strong&gt;或&lt;strong&gt;補充說明&lt;/strong&gt;的子句(句中句)&lt;/p&gt;
+
+&lt;h4 id=&#34;s-vi&#34;&gt;S + Vi&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong style=&#34;background-color: yellow;&#34;&gt;完全不及物動詞&lt;/strong&gt;指動詞不需要受
+詞，例如:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A bird flies.&lt;/li&gt;
+&lt;li&gt;The boy sneezes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;如果不及物動詞後面要接&lt;strong&gt;受詞&lt;/strong&gt;，必須加上介系詞&lt;/p&gt;
+
+&lt;h4 id=&#34;s-vi-prep-o&#34;&gt;S + Vi + prep + O&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I arrived &lt;strong&gt;at&lt;/strong&gt; the theater early so that I could get a good seat.&lt;/li&gt;
+&lt;li&gt;John wait &lt;strong&gt;for&lt;/strong&gt; his friend on the corner.&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t worry, this happen &lt;strong&gt;to&lt;/strong&gt; everyone.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;s-vi-s-c&#34;&gt;S + Vi + S.C&lt;/h4&gt;
+
+&lt;p&gt;此句型的不及物動詞為&lt;strong style=&#34;background-color: yellow;&#34;&gt; 不完全不及物動詞
+&lt;/strong&gt;，之後不接&lt;strong&gt;受詞(object)&lt;/strong&gt;，但需要有補語(補充說明的主詞)，通常為
+&lt;strong style=&#34;background-color: yellow;&#34;&gt;名詞&lt;/strong&gt;或&lt;strong style=&#34;background-color: yellow;&#34;&gt;
+形容詞&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;My sister is a nurse.&lt;/li&gt;
+&lt;li&gt;The giraffe is tall.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;PS. be 動詞為及為此類不完全不及物動詞&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;be&lt;/th&gt;
+&lt;th&gt;感官動詞&lt;/th&gt;
+&lt;th&gt;表似乎&lt;/th&gt;
+&lt;th&gt;表變成&lt;/th&gt;
+&lt;th&gt;表保持&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;am, are, is, was, were&lt;/td&gt;
+&lt;td&gt;feel, look, smell, sound, taste&lt;/td&gt;
+&lt;td&gt;seem, appear&lt;/td&gt;
+&lt;td&gt;become, come, fall, fall, get, go, grow, turn&lt;/td&gt;
+&lt;td&gt;keep, remain, stand, stay&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Examples:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tom becomes a doctor.&lt;/li&gt;
+&lt;li&gt;Greta always feels better after taking a shower.&lt;/li&gt;
+&lt;li&gt;This game seems fun.&lt;/li&gt;
+&lt;li&gt;The milk turned sour when it was left in the sun.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;s-vt-o&#34;&gt;S + Vt + O&lt;/h4&gt;
+
+&lt;p&gt;這類句型的動詞稱為&lt;strong style=&#34;background-color: yellow;&#34;&gt;完全及物動詞&lt;/strong&gt;
+，之後需要有&lt;strong style=&#34;background-color: yellow;&#34;&gt;受詞&lt;/strong&gt; 才完整&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;受詞&lt;/strong&gt;除了名詞之外也可以是&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;動名詞片語&lt;/li&gt;
+&lt;li&gt;名詞片語&lt;/li&gt;
+&lt;li&gt;名詞子句&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Examples:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The boy has(vt) a ball(o 為名詞)&lt;/li&gt;
+&lt;li&gt;The kids like &lt;strong&gt;playing&lt;/strong&gt; in the park. (o 為動名詞 playing)&lt;/li&gt;
+&lt;li&gt;Teenagers like to &lt;strong&gt;listen to pop music&lt;/strong&gt;. (o 為不定詞片語)&lt;/li&gt;
+&lt;li&gt;He doesn&amp;rsquo;t know &lt;strong&gt;what to eat&lt;/strong&gt;. (o 為名詞片語)&lt;/li&gt;
+&lt;li&gt;I don&amp;rsquo;t know &lt;strong&gt;when we will get there&lt;/strong&gt;. (o 為名詞子句)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;TPO 可能看到&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In 1929 the United States motion picture industry(s) released(vt) more than 300 sound films(o)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;上方句型可簡化成&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The industry released films.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;s-vt-i-o-d-o&#34;&gt;S + Vt + I.O + D.O&lt;/h4&gt;
+
+&lt;p&gt;這類的及物動詞稱為&lt;strong style=&#34;background-color: yellow;&#34;&gt;授予動詞&lt;/strong&gt;
+指會帶有&lt;strong style=&#34;background-color: yellow;&#34;&gt;兩個&lt;/strong&gt;受詞的動詞&lt;/p&gt;
+
+&lt;p&gt;Example:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The boy gives a girl flowers.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;上句中 a girl 為間接受詞(I.O)。flower 為直接受詞(D.O)。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The grandmother tells her grandchildren a story.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;上句中 grandchildren 為間接受詞。a story 為直接受詞&lt;/p&gt;
+
+&lt;p&gt;PS. 直接受詞和間接受詞的位子可對調，但需要加上適當的介系詞，例如&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I sent Mike an e-mail.&lt;/li&gt;
+&lt;li&gt;I sent an e-mail to Mike.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;搭配 to&lt;/th&gt;
+&lt;th&gt;搭配 for&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;bring, give, hand, lend, offer, mail, pass, pay, read, sell, send, show, teach, tell, write&lt;/td&gt;
+&lt;td&gt;buy, find, get, leave, make, save&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I teach her son math. = I teach math to her son.&lt;/li&gt;
+&lt;li&gt;I give her flowers. = I give flowers to her.&lt;/li&gt;
+&lt;li&gt;I bought my nephew a watch. = I bought a watch for my nephew.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;s-vt-o-o-c&#34;&gt;S + Vt + O + O.C&lt;/h4&gt;
+
+&lt;p&gt;這類巨型的動詞為&lt;strong style=&#34;background-color: yellow;&#34;&gt;不完全及物動詞&lt;/strong&gt;，
+除了受詞(object)之外還需要受詞補語(O.C)句意才完整的動詞&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The girl paints the door yellow&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;上句中 the door 為受詞，yellow 為受詞補語&lt;/p&gt;
+
+&lt;p&gt;Examples:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;We found the kids playing in the yard when we came home.&lt;/li&gt;
+&lt;li&gt;The housewife keeps the house clean.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;受詞補語大多為:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;形容詞&lt;/li&gt;
+&lt;li&gt;現在分詞&lt;/li&gt;
+&lt;li&gt;介系詞片語&lt;/li&gt;
+&lt;li&gt;名詞&lt;/li&gt;
+&lt;li&gt;不定詞&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Examples:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;That earthquake left many people homeless.&lt;/li&gt;
+&lt;li&gt;Don&amp;rsquo;t tell Nathan what his present is. Let&amp;rsquo;s &lt;strong&gt;keep&lt;/strong&gt; &lt;em&gt;guessing&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Chris &lt;strong&gt;found&lt;/strong&gt; his car window &lt;em&gt;broken&lt;/em&gt; and his cell phone &lt;em&gt;stolen&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;The news &lt;strong&gt;left&lt;/strong&gt; me &lt;em&gt;in a state of shock&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Her imagination &lt;strong&gt;made&lt;/strong&gt; her &lt;em&gt;a great artist&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;You can &lt;strong&gt;ask&lt;/strong&gt; him &lt;em&gt;to lend you his car&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;asking-questions-to-myself&#34;&gt;Asking questions to myself&lt;/h2&gt;
+
+&lt;p&gt;在練習簡化句子時，回答以下問題&lt;/p&gt;
+
+&lt;ul class=&#34;task-list&#34;&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; 句子屬於上面哪種句型&lt;/li&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled class=&#34;task-list-item&#34;&gt; 抓出 S V O&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     
     <item>
       <title>Astronomy</title>
