@@ -17,17 +17,68 @@ menu = ""
 * S + spend + energy + ving / on N
 * S + spend + money + ving / on N
 
+Example:
+
+1. Anna spends a lot of time and energy searching for the best deals on products.
+2. Ben spends a lot of time on the computer.
+3. He spent a lot of money on that gift for her.
+4. We spent a lot of money traveling across Europe.
+
+花費多少時間也可以用 **take**
+
+sth + takes (sb) + time
+
+* Cooking dinner for the whole family takes time.
+
+It takes (sb) time + to V
+
+* It takes time to cook dinner for the whole family.
+
+PS. It 為虛主詞
+
+花費多少錢可以用 cost
+
+sth + cost (sb) + money
+
+* That coat cost me a lot of money.
+
+It costs (sb) money to V
+
+* It costs me a lot of money to buy that coat.
+
 #### 不管 ... 還是 ...
 
 * whether ... or
+
+此句型常用於帶出兩種或兩種以上的可能性
+
+1. Whether you think you can or you think you can't - you're right.
+2. Someone has to to do presentation, whether it's you or me.
+3. Amy always gets the highest grade, whether it's in math, science, or English.
+4. Whether it's chicken, lamb, or beef, the meats at that store are sold frozen.
 
 #### 不管是否
 
 * whether + S + V + O (or not)
 
+1. You will do it, whether you like it or not.
+2. Whether you give me permission or not, I am going out.
+
 #### 沒想到卻; 不料卻
 
 * ..., only to + V
+
+1. We walked to our favorite restaurant, **only to** find out that it had closed down.
+2. Jerry bought an expensive shirt, **only to** spill red wine on it the next day.
+3. Helen gave her credit card to the cashier, **only to** be told that it had been declined.
+4. I arrived at my house, only to be called back to work by my boss.
+
+另外相似的用法 **only too** 表示極為、非常，用來修飾形容詞
+
+I would be only too pleased to help you.
+
+我會很樂意幫你
+
 
 #### 如此 ... 以致於 ...
 
